@@ -1,0 +1,13 @@
+black
+SETTINGS:
+GAME_MODE: 2-player
+8| R N B Q K B N R |
+7| M M M M _ M M M |
+6| _ _ _ _ M _ _ _ |
+5| _ _ _ _ _ _ _ _ |
+4| _ _ _ _ _ _ _ _ |
+3| _ _ _ _ m _ _ m |
+2| m m m m _ m m _ |
+1| r n b q k b n r |
+  -----------------
+   A B C D E F G H
